@@ -8,15 +8,18 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Git Eğitiminde oluşturduğum
 
 Öncelikle projeyi clonelayın. 
 
-`git clone https://github.com/kemalbarancan/kodluyoruzilkrepo`
+```
+git clone https://github.com/kemalbarancan/kodluyoruzilkrepo
+```
 
 ## Usage 
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız. Linux için:
 
-`cd kodluyoruzilkrepo`
-
-`code .`
+```
+cd kodluyoruzilkrepo
+code .
+```
 
 ## Contributing 
 
